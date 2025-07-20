@@ -20,8 +20,8 @@ Retail-Sales-Forecasting/
 
 ## 📊 Features
 
-- ✅ Time Series Forecasting with ML models (XGBoost, LightGBM, etc.)
-- ✅ Visual analysis using Matplotlib and Seaborn
+- ✅ Time Series Forecasting with Facebook Prophet
+- ✅ Visual analysis using Matplotlib
 - ✅ Statistical modeling and trend analysis
 - ✅ Scalable notebook-based exploration
 - ✅ Modular structure for easy maintenance
@@ -79,8 +79,8 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name]  
-For questions, email: your.email@example.com
+Made with ❤️ by [Arkya]  
+For questions, email: arkyasanyal03@gmail.com
 
 ---
 
