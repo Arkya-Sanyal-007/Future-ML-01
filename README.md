@@ -8,7 +8,7 @@ Welcome to the **Retail Sales Forecasting** project! 📈 This repository showca
 
 ```
 Retail-Sales-Forecasting/
-├── notebooks/                      # Jupyter notebooks for analysis & modeling
+├── notebooks/                      # Jupyter notebook for analysis & modeling
 ├── sample data/                    # Placeholder for raw datasets
 ├── src/                            # Placeholder of the source code for future modular expansion
 ├── retail_sales_forecasting.py     # Actual Python code 
