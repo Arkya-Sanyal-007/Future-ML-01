@@ -35,8 +35,8 @@ Retail-Sales-Forecasting/
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/Retail-Sales-Forecasting.git
-cd Retail-Sales-Forecasting
+git clone (https://github.com/Arkya-Sanyal-007/Future-ML-01.git
+cd Future-ML-01
 ```
 
 2. **Install dependencies**  
