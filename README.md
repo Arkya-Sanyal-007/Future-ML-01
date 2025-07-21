@@ -7,14 +7,15 @@ Welcome to the **Retail Sales Forecasting** project! 📈 This repository showca
 ## 📁 Project Structure
 
 ```
-Retail-Sales-Forecasting/
-├── notebooks/                      # Jupyter notebook for analysis & modeling
-├── sample data/                    # Placeholder for raw datasets
-├── src/                            # Placeholder of the source code for future modular expansion
-├── retail_sales_forecasting.py     # Actual Python code 
-├── requirements.txt                # Python dependencies
-├── README.md                       # You're here!
-└── .gitignore                      # Files to exclude from Git
+Retail-Sales-Forecasting/ 
+├── notebooks/                               # Jupyter notebook (inside) for analysis & modeling
+├── sample data/                             # Placeholder for raw sample dataset
+├── src/                                     # Placeholder of the source code for future modular expansion
+├── retail_sales_forecasting.py              # Actual Python code
+├── Retail Sales Forecasting Dashboard       # Interactive dashboard using Power BI
+├── requirements.txt                         # Python dependencies
+├── README.md                                # You're here!
+└── .gitignore                               # Files to exclude from Git
 ```
 
 ---
@@ -26,6 +27,7 @@ Retail-Sales-Forecasting/
 - ✅ Statistical modeling and trend analysis
 - ✅ Scalable notebook-based exploration
 - ✅ Modular structure for easy maintenance
+- ✅ Interactive dashboard using Power BI
 
 ---
 
