@@ -83,7 +83,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ## 📬 Contact
 
 Made with ❤️ by Arkya    
-For questions, email: arkyasanyal03@gmail.com
+For questions, email: [arkyasanyal03@gmail.com](mailto:arkyasanyal03@gmail.com)
 
 ---
 
